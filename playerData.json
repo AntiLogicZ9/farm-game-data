@@ -1,4 +1,20 @@
 {
+  "656": {
+    "username": "656",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1755975979773,
+    "totalEarned": 0,
+    "cropsHarvested": 0
+  },
   "Z": {
     "username": "Z",
     "money": 64,
