@@ -51,7 +51,7 @@
   },
   "ilovezayanbabu": {
     "username": "ilovezayanbabu",
-    "money": 130,
+    "money": 160,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -61,8 +61,8 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755977875471,
-    "totalEarned": 60,
-    "cropsHarvested": 2
+    "lastActive": 1755978438906,
+    "totalEarned": 120,
+    "cropsHarvested": 4
   }
 }
