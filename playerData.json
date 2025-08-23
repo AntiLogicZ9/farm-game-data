@@ -5,15 +5,15 @@
     "inventory": {
       "carrot": 0,
       "cabbage": 2,
-      "onion": 1,
-      "potato": 0,
+      "onion": 3,
+      "potato": 1,
       "beetroot": 0
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755977187601,
+    "lastActive": 1755977219168,
     "totalEarned": 0,
-    "cropsHarvested": 3
+    "cropsHarvested": 6
   },
   "zcxc": {
     "username": "zcxc",
