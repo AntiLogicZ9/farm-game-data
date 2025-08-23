@@ -1,19 +1,19 @@
 {
   "Z": {
     "username": "Z",
-    "money": 59,
+    "money": 165,
     "inventory": {
-      "carrot": 1,
-      "cabbage": 1,
-      "onion": 1,
-      "potato": 1,
-      "beetroot": 1
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755978108934,
-    "totalEarned": 0,
-    "cropsHarvested": 5
+    "lastActive": 1755978149689,
+    "totalEarned": 108,
+    "cropsHarvested": 7
   },
   "zcxc": {
     "username": "zcxc",
