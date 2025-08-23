@@ -14,5 +14,21 @@
     "lastActive": 1755973812760,
     "totalEarned": 28,
     "cropsHarvested": 2
+  },
+  "EE": {
+    "username": "EE",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1755973882232,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
