@@ -33,7 +33,7 @@
   },
   "gfd": {
     "username": "gfd",
-    "money": 100,
+    "money": 9,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -43,7 +43,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755974182384,
+    "lastActive": 1755974217064,
     "totalEarned": 0,
     "cropsHarvested": 0
   }
