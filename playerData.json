@@ -17,7 +17,7 @@
   },
   "EE": {
     "username": "EE",
-    "money": 100,
+    "money": 63,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -27,7 +27,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755973882232,
+    "lastActive": 1755973938003,
     "totalEarned": 0,
     "cropsHarvested": 0
   }
