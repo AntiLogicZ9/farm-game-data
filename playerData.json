@@ -17,19 +17,20 @@
   },
   "zcxc": {
     "username": "zcxc",
-    "money": 100,
+    "money": 55,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
       "onion": 0,
       "potato": 0,
-      "beetroot": 0
+      "beetroot": 0,
+      "undefined": null
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755976434074,
+    "lastActive": 1755977817553,
     "totalEarned": 0,
-    "cropsHarvested": 0
+    "cropsHarvested": 3
   },
   "zayanlover": {
     "username": "zayanlover",
