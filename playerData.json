@@ -113,18 +113,18 @@
   },
   "hgfh": {
     "username": "hgfh",
-    "money": 100,
+    "money": 62,
     "inventory": {
       "carrot": 0,
-      "cabbage": 0,
+      "cabbage": 1,
       "onion": 0,
-      "potato": 0,
+      "potato": 1,
       "beetroot": 0
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755976694834,
+    "lastActive": 1755976764777,
     "totalEarned": 0,
-    "cropsHarvested": 0
+    "cropsHarvested": 2
   }
 }
