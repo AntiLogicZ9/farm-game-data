@@ -48,5 +48,21 @@
     "lastActive": 1755977621520,
     "totalEarned": 118,
     "cropsHarvested": 8
+  },
+  "ilovezayanbabu": {
+    "username": "ilovezayanbabu",
+    "money": 130,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1755977875471,
+    "totalEarned": 60,
+    "cropsHarvested": 2
   }
 }
