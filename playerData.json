@@ -94,5 +94,21 @@
     "lastActive": 1755976201634,
     "totalEarned": 0,
     "cropsHarvested": 0
+  },
+  "zcxc": {
+    "username": "zcxc",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1755976433415,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
