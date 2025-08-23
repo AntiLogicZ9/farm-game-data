@@ -78,5 +78,21 @@
     "lastActive": 1755975122100,
     "totalEarned": 0,
     "cropsHarvested": 0
+  },
+  "jhg": {
+    "username": "jhg",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1755976201634,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
