@@ -30,5 +30,21 @@
     "lastActive": 1755976434074,
     "totalEarned": 0,
     "cropsHarvested": 0
+  },
+  "zayanlover": {
+    "username": "zayanlover",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1755977514663,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
