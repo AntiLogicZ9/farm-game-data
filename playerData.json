@@ -33,18 +33,19 @@
   },
   "zayanlover": {
     "username": "zayanlover",
-    "money": 67,
+    "money": 70,
     "inventory": {
       "carrot": 0,
-      "cabbage": 2,
-      "onion": 1,
-      "potato": 1,
-      "beetroot": 1
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0,
+      "undefined": null
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755977597850,
-    "totalEarned": 24,
-    "cropsHarvested": 7
+    "lastActive": 1755977621520,
+    "totalEarned": 118,
+    "cropsHarvested": 8
   }
 }
