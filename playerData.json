@@ -113,18 +113,19 @@
   },
   "U": {
     "username": "U",
-    "money": 100,
+    "money": 68,
     "inventory": {
-      "carrot": 0,
+      "carrot": 12,
       "cabbage": 0,
       "onion": 0,
       "potato": 0,
-      "beetroot": 0
+      "beetroot": 0,
+      "undefined": null
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1756055661406,
+    "lastActive": 1756055684601,
     "totalEarned": 0,
-    "cropsHarvested": 0
+    "cropsHarvested": 13
   }
 }
