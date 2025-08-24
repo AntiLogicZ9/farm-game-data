@@ -1,7 +1,7 @@
 {
   "Z": {
     "username": "Z",
-    "money": 60,
+    "money": 64,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -11,7 +11,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1756025772748,
+    "lastActive": 1756025611200,
     "totalEarned": 24,
     "cropsHarvested": 2
   },
