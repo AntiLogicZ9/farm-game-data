@@ -62,5 +62,21 @@
     "lastActive": 1755978438906,
     "totalEarned": 120,
     "cropsHarvested": 4
+  },
+  "Sam": {
+    "username": "Sam",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1755995006610,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
