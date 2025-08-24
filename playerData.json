@@ -78,5 +78,21 @@
     "lastActive": 1756026537488,
     "totalEarned": 0,
     "cropsHarvested": 0
+  },
+  "asdasd": {
+    "username": "asdasd",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1756032128130,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
