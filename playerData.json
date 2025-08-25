@@ -143,5 +143,21 @@
     "lastActive": 1756099818604,
     "totalEarned": 0,
     "cropsHarvested": 0
+  },
+  "ui": {
+    "username": "ui",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1756113728643,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
