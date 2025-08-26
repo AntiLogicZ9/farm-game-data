@@ -65,7 +65,7 @@
   },
   "Sam": {
     "username": "Sam",
-    "money": 190,
+    "money": 100,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -75,9 +75,9 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1756146091974,
-    "totalEarned": 180,
-    "cropsHarvested": 6
+    "lastActive": 1756217037522,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   },
   "asdasd": {
     "username": "asdasd",
