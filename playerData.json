@@ -242,19 +242,19 @@
   },
   "robobot": {
     "username": "robobot",
-    "money": 50,
+    "money": 2,
     "inventory": {
       "carrot": 0,
-      "cabbage": 1,
+      "cabbage": 0,
       "onion": 0,
       "potato": 0,
       "beetroot": 0
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1756577285626,
+    "lastActive": 1756572245925,
     "totalEarned": 0,
-    "cropsHarvested": 1
+    "cropsHarvested": 0
   },
   "tonmoy": {
     "username": "tonmoy",
