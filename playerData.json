@@ -242,7 +242,7 @@
   },
   "robobot": {
     "username": "robobot",
-    "money": 54,
+    "money": 2,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -252,7 +252,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1756572093622,
+    "lastActive": 1756572245925,
     "totalEarned": 0,
     "cropsHarvested": 0
   },
