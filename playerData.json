@@ -271,5 +271,21 @@
     "lastActive": 1756650758834,
     "totalEarned": 0,
     "cropsHarvested": 0
+  },
+  "saddfsaasfd": {
+    "username": "saddfsaasfd",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1756650921476,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
