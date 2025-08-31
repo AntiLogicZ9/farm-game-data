@@ -258,7 +258,7 @@
   },
   "tonmoy": {
     "username": "tonmoy",
-    "money": 100,
+    "money": 80,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -268,7 +268,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1756650748494,
+    "lastActive": 1756650758834,
     "totalEarned": 0,
     "cropsHarvested": 0
   }
