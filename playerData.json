@@ -303,5 +303,21 @@
     "lastActive": 1757080079136,
     "totalEarned": 0,
     "cropsHarvested": 0
+  },
+  "Tooppp": {
+    "username": "Tooppp",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1757507276903,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
