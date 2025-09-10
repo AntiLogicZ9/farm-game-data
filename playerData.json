@@ -17,7 +17,7 @@
   },
   "zcxc": {
     "username": "zcxc",
-    "money": 1139,
+    "money": 100,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -27,9 +27,9 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1755977896239,
-    "totalEarned": 2442,
-    "cropsHarvested": 106
+    "lastActive": 1757507351480,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   },
   "zl": {
     "username": "zl",
