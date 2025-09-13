@@ -322,18 +322,19 @@
   },
   "Tianxin": {
     "username": "Tianxin",
-    "money": 100,
+    "money": 59,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
       "onion": 0,
       "potato": 0,
-      "beetroot": 0
+      "beetroot": 0,
+      "undefined": null
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1757748036645,
+    "lastActive": 1757748098994,
     "totalEarned": 0,
-    "cropsHarvested": 0
+    "cropsHarvested": 1
   }
 }
