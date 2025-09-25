@@ -372,7 +372,7 @@
   },
   "0112410255": {
     "username": "0112410255",
-    "money": 100,
+    "money": 82,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -382,7 +382,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1758775786855,
+    "lastActive": 1758775810911,
     "totalEarned": 0,
     "cropsHarvested": 0
   }
