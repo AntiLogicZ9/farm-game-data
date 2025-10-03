@@ -388,7 +388,7 @@
   },
   "fumikus": {
     "username": "fumikus",
-    "money": 100,
+    "money": 66,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -398,7 +398,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1759500007024,
+    "lastActive": 1759500034391,
     "totalEarned": 0,
     "cropsHarvested": 0
   }
