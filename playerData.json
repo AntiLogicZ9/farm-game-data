@@ -390,16 +390,16 @@
     "username": "fumikus",
     "money": 66,
     "inventory": {
-      "carrot": 0,
+      "carrot": 3,
       "cabbage": 0,
-      "onion": 0,
-      "potato": 0,
+      "onion": 3,
+      "potato": 2,
       "beetroot": 0
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1759500034391,
+    "lastActive": 1759501118870,
     "totalEarned": 0,
-    "cropsHarvested": 0
+    "cropsHarvested": 8
   }
 }
