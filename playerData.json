@@ -401,5 +401,21 @@
     "lastActive": 1759501118870,
     "totalEarned": 0,
     "cropsHarvested": 8
+  },
+  "kaka": {
+    "username": "kaka",
+    "money": 100,
+    "inventory": {
+      "carrot": 0,
+      "cabbage": 0,
+      "onion": 0,
+      "potato": 0,
+      "beetroot": 0
+    },
+    "friends": [],
+    "friendRequests": [],
+    "lastActive": 1759868881327,
+    "totalEarned": 0,
+    "cropsHarvested": 0
   }
 }
