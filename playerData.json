@@ -420,18 +420,18 @@
   },
   "shinra": {
     "username": "shinra",
-    "money": 0,
+    "money": 169,
     "inventory": {
       "carrot": 0,
-      "cabbage": 1,
+      "cabbage": 0,
       "onion": 0,
       "potato": 0,
-      "beetroot": 10
+      "beetroot": 7
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1760270459777,
-    "totalEarned": 244,
-    "cropsHarvested": 22
+    "lastActive": 1760270528362,
+    "totalEarned": 578,
+    "cropsHarvested": 30
   }
 }
