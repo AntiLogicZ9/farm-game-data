@@ -452,7 +452,7 @@
   },
   "f": {
     "username": "f",
-    "money": 100,
+    "money": 34,
     "inventory": {
       "carrot": 0,
       "cabbage": 0,
@@ -462,7 +462,7 @@
     },
     "friends": [],
     "friendRequests": [],
-    "lastActive": 1761123607826,
+    "lastActive": 1761123630698,
     "totalEarned": 0,
     "cropsHarvested": 0
   }
